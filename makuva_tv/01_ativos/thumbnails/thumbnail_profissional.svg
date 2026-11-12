@@ -1,0 +1,24 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo verde escuro -->
+  <rect width="1280" height="720" fill="#0B3D2E"/>
+
+  <!-- Faixa vermelha bordô superior -->
+  <rect x="0" y="0" width="1280" height="90" fill="#8B1C1C"/>
+
+  <!-- Círculo dourado decorativo sutil -->
+  <circle cx="1080" cy="560" r="180" fill="#D4A017" opacity="0.12"/>
+
+  <!-- Símbolo M central esquerdo -->
+  <g transform="translate(400, 360) scale(1.8)">
+    <rect x="-24" y="-144" width="18" height="288" fill="#FFFFFF"/>
+    <rect x="-6" y="-48" width="18" height="96" fill="#D4A017"/>
+    <rect x="14" y="-144" width="18" height="288" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Título do vídeo (exemplo) -->
+  <text x="650" y="330" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="100" font-weight="900" fill="#FFFFFF" text-anchor="start" letter-spacing="2">LUZ VIU?</text>
+  <text x="650" y="470" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="#D4A017" text-anchor="start" letter-spacing="1">Makuva TV</text>
+
+  <!-- Linha de destaque inferior -->
+  <rect x="650" y="560" width="120" height="10" fill="#D4A017"/>
+</svg>

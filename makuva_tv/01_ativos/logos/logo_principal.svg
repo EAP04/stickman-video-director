@@ -1,0 +1,17 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo transparente -->
+
+  <!-- Símbolo M à esquerda -->
+  <g transform="translate(200, 350)">
+    <rect x="-30" y="-180" width="24" height="360" fill="#0B3D2E"/>
+    <rect x="-8" y="-60" width="24" height="120" fill="#8B1C1C"/>
+    <rect x="16" y="-180" width="24" height="360" fill="#0B3D2E"/>
+  </g>
+
+  <!-- Texto MAKUVA TV -->
+  <text x="360" y="350" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="140" font-weight="900" fill="#0B3D2E" text-anchor="start" dominant-baseline="middle" letter-spacing="6">MAKUVA</text>
+  <text x="360" y="480" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="140" font-weight="900" fill="#8B1C1C" text-anchor="start" dominant-baseline="middle" letter-spacing="6">TV</text>
+
+  <!-- Linha de destaque dourada -->
+  <rect x="360" y="560" width="160" height="10" fill="#D4A017"/>
+</svg>

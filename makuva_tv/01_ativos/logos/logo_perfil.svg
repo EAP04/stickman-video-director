@@ -1,0 +1,28 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="gradPerfil" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#14533D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0B3D2E;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+
+  <!-- Fundo verde escuro circular -->
+  <circle cx="500" cy="500" r="480" fill="url(#gradPerfil)"/>
+
+  <!-- Borda dourada interna sutil -->
+  <circle cx="500" cy="500" r="440" fill="none" stroke="#D4A017" stroke-width="10"/>
+
+  <!-- Símbolo M abstrato central: 3 barras verticais + traço central -->
+  <g transform="translate(500, 500)">
+    <!-- Barra esquerda -->
+    <rect x="-30" y="-150" width="22" height="300" fill="#FFFFFF"/>
+    <!-- Barra central (mais curta) -->
+    <rect x="-10" y="-50" width="22" height="100" fill="#D4A017"/>
+    <!-- Barra direita -->
+    <rect x="12" y="-150" width="22" height="300" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Texto MAKUVA abaixo do símbolo -->
+  <text x="500" y="790" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="8">MAKUVA</text>
+  <text x="500" y="870" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="#D4A017" text-anchor="middle" letter-spacing="6">TV</text>
+</svg>

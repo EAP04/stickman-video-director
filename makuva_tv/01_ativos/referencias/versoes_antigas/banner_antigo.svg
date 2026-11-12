@@ -1,0 +1,34 @@
+<svg width="2560" height="1440" viewBox="0 0 2560 1440" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo verde -->
+  <rect width="2560" height="1440" fill="#008000"/>
+
+  <!-- Faixa vermelha diagonal -->
+  <polygon points="0,0 2560,0 2560,340 0,340" fill="#CE1126"/>
+  <polygon points="0,1440 2560,1440 2560,1100 0,1100" fill="#CE1126"/>
+
+  <!-- Área segura central (onde o texto fica visível em todos os dispositivos) -->
+  <rect x="507" y="508" width="1546" height="423" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="20,20"/>
+
+  <!-- Palitinho grande no centro -->
+  <g transform="translate(1280, 900) scale(1.6)">
+    <!-- Cabeça -->
+    <circle cx="0" cy="-140" r="70" fill="none" stroke="#FFFFFF" stroke-width="18"/>
+    <!-- Corpo -->
+    <line x1="0" y1="-70" x2="0" y2="180" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+    <!-- Braços -->
+    <line x1="0" y1="-20" x2="-100" y2="60" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+    <line x1="0" y1="-20" x2="100" y2="60" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+    <!-- Pernas -->
+    <line x1="0" y1="180" x2="-80" y2="300" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+    <line x1="0" y1="180" x2="80" y2="300" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto MAKUVA TV -->
+  <text x="1280" y="780" font-family="Arial, sans-serif" font-size="140" font-weight="bold" fill="#FFFFFF" text-anchor="middle">MAKUVA TV</text>
+  <text x="1280" y="980" font-family="Arial, sans-serif" font-size="60" fill="#FFCD00" text-anchor="middle">Piadas e memes de Moçambique</text>
+  <text x="1280" y="1060" font-family="Arial, sans-serif" font-size="48" fill="#FFFFFF" text-anchor="middle">Humor do dia a dia em stickman</text>
+
+  <!-- Círculos decorativos -->
+  <circle cx="600" cy="400" r="120" fill="#FFCD00" opacity="0.3"/>
+  <circle cx="1960" cy="1040" r="160" fill="#CE1126" opacity="0.3"/>
+</svg>

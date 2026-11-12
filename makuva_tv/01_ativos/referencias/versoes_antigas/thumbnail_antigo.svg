@@ -1,0 +1,33 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo vermelho -->
+  <rect width="1280" height="720" fill="#CE1126"/>
+
+  <!-- Faixa amarela diagonal -->
+  <polygon points="0,0 1280,0 1280,160 0,160" fill="#FFCD00"/>
+  <polygon points="0,720 1280,720 1280,560 0,560" fill="#FFCD00"/>
+
+  <!-- Palitinho surpreso no centro direito -->
+  <g transform="translate(850, 450) scale(1.4)">
+    <!-- Cabeça -->
+    <circle cx="0" cy="-80" r="55" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+    <!-- Boca aberta (surpresa) -->
+    <circle cx="0" cy="-60" r="12" fill="#FFFFFF"/>
+    <!-- Corpo -->
+    <line x1="0" y1="-25" x2="0" y2="120" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+    <!-- Braços -->
+    <line x1="0" y1="0" x2="-70" y2="40" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="70" y2="40" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+    <!-- Pernas -->
+    <line x1="0" y1="120" x2="-50" y2="200" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+    <line x1="0" y1="120" x2="50" y2="200" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto grande (exemplo: LUZ VIU?) -->
+  <text x="200" y="380" font-family="Arial, sans-serif" font-size="130" font-weight="bold" fill="#FFFFFF" stroke="#000000" stroke-width="6">LUZ VIU?</text>
+
+  <!-- Texto secundário -->
+  <text x="200" y="560" font-family="Arial, sans-serif" font-size="56" fill="#FFCD00" stroke="#000000" stroke-width="3">Makuva TV - Humor de Moçambique</text>
+
+  <!-- Círculo verde decorativo -->
+  <circle cx="1050" cy="600" r="150" fill="#008000" opacity="0.4"/>
+</svg>
