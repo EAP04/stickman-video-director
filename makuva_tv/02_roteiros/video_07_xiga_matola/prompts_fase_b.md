@@ -5,19 +5,19 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Entrar no xiga, dizer endereço (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure enters minibus taxi (xiga), tells driver address, driver nods confidently and starts driving. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with taxi interior with driver seat, dashboard and street view. Stick figure enters minibus taxi (xiga), tells driver address, driver nods confidently and starts driving. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Xiga vira em rua errada (10–20s)
 
 ```
-Same minimalist 2D animated stick figure sitting in moving xiga on white background. Xiga turns down narrow unfamiliar street, figure looks out window confused, looks at driver. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure sitting in moving xiga on white background with taxi interior with driver seat, dashboard and street view. Xiga turns down narrow unfamiliar street, figure looks out window confused, looks at driver. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Motorista pergunta caminho, desce (20–30s)
 
 ```
-Same stick figure exits xiga on street corner on white background. Driver stops, asks pedestrian for directions with hand gesture, figure walks away on foot. Small yellow street sign accent visible. Hollow circular head, black stick limbs, yellow accent. Simple black lines, vibrant colors, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same stick figure exits xiga on street corner on white background with taxi interior with driver seat, dashboard and street view. Driver stops, asks pedestrian for directions with hand gesture, figure walks away on foot. Small yellow street sign accent visible. Hollow circular head, black stick limbs, yellow accent. Simple black lines, vibrant colors, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Regras de geração (não alterar)

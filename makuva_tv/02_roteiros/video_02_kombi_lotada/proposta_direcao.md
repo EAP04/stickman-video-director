@@ -7,7 +7,7 @@
 - **Duração:** 30 segundos (3 clipes de ~10s)
 - **Formato:** 9:16 vertical (YouTube Shorts)
 - **Modo:** A · Director Mode
-- **Estilo:** Style 1 · Classic Minimalist (fundo branco)
+- **Estilo:** Style 2 · Ambientes Variados (fundo branco com ambiente por cena, palito simples)
 - **Idioma da narração:** Português de Moçambique
 
 ## 2. Mensagem central e gancho
@@ -17,7 +17,7 @@
 ## 3. Configurações técnicas
 - **Proporção:** 9:16
 - **Duração alvo:** 30 segundos
-- **Estilo visual:** Style 1 Classic Minimalist, tema claro
+- **Estilo visual:** Style 2 Ambientes Variados, tema claro com ambiente diferenciado por vídeo
 - **Cores de destaque:** Verde vivo, vermelho forte, amarelo brilhante
 - **Não usar:** Notação de cor técnica, balões de fala, texto na cena
 

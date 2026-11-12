@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Sai de casa, vê blitz (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure rides motorcycle, sees police checkpoint ahead, looks worried. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with police checkpoint with officer uniform, traffic sign and street. Stick figure rides motorcycle, sees police checkpoint ahead, looks worried. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Polícia sinaliza parar, lembra capacete (10–20s)
 
 ```
-Same minimalist 2D animated stick figure on motorcycle on white background. Police officer waves to stop, figure remembers helmet left at home, looks stressed. Small red stop sign accent visible. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure on motorcycle on white background with police checkpoint with officer uniform, traffic sign and street. Police officer waves to stop, figure remembers helmet left at home, looks stressed. Small red stop sign accent visible. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Para, toma multa, sai (20–30s)

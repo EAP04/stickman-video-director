@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Chegar ao chafariz com balde vazio (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure carries empty bucket to water pump, sees long line of people waiting. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with outdoor street with water fountain, pavement and neighborhood. Stick figure carries empty bucket to water pump, sees long line of people waiting. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Fila não anda, balde vazio (10–20s)
 
 ```
-Same minimalist 2D animated stick figure with empty bucket on white background. Line barely moves, sun gets hotter, figure wipes sweat, bucket still empty. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure with empty bucket on white background with outdoor street with water fountain, pavement and neighborhood. Line barely moves, sun gets hotter, figure wipes sweat, bucket still empty. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Água sai, balde vazia (20–30s)

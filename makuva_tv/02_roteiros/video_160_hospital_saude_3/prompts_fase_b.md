@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Vou ao hospital (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure arrives at hospital to be seen, waiting room is full with long line, figure joins end of line. Small yellow ticket accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with clinic examination room with bed, medical equipment and cabinets. Stick figure arrives at hospital to be seen, waiting room is full with long line, figure joins end of line. Small yellow ticket accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — A fila é longa (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in hospital waiting room on white background. Line of people is very long, figure waits patiently but looks tired, hours seem to pass. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in hospital waiting room on white background with clinic examination room with bed, medical equipment and cabinets. Line of people is very long, figure waits patiently but looks tired, hours seem to pass. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Volto outro dia (20–30s)

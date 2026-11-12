@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Parou na esquina errada (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure inside xiga minibus taxi, driver stops at wrong corner, not the destination, figure looks confused. Small red stop hand accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with taxi interior with driver seat, dashboard and street view. Stick figure inside xiga minibus taxi, driver stops at wrong corner, not the destination, figure looks confused. Small red stop hand accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não é aqui, meu destino é ali (10–20s)
 
 ```
-Same minimalist 2D animated stick figure inside xiga on white background. Driver insists this is the place, figure points to different location down the road. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure inside xiga on white background with taxi interior with driver seat, dashboard and street view. Driver insists this is the place, figure points to different location down the road. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Desço aqui, vou a pé mesmo (20–30s)

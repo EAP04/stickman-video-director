@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A água jorra (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure arrives at water pump, water flows strongly, figure realizes bucket is at home, looks disappointed. Small red water jet accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with outdoor street with water fountain, pavement and neighborhood. Stick figure arrives at water pump, water flows strongly, figure realizes bucket is at home, looks disappointed. Small red water jet accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Esqueci o balde (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at water pump on white background. Looks at empty hands, no bucket to collect water, water keeps flowing, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at water pump on white background with outdoor street with water fountain, pavement and neighborhood. Looks at empty hands, no bucket to collect water, water keeps flowing, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou buscar (20–30s)

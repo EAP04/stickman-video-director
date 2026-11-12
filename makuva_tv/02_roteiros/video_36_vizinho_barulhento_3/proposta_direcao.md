@@ -6,7 +6,7 @@
 - **Duração:** 30 segundos (3 clipes de ~10s)
 - **Formato:** 9:16 vertical (YouTube Shorts)
 - **Modo:** A · Director Mode
-- **Estilo:** Style 1 · Classic Minimalist (fundo branco, palito simples)
+- **Estilo:** Style 2 · Ambientes Variados (fundo branco com ambiente por cena, palito simples)
 - **Idioma da narração:** Português de Moçambique
 
 ## 2. Mensagem central e gancho
@@ -16,8 +16,9 @@
 ## 3. Configurações técnicas
 - **Proporção:** 9:16
 - **Duração alvo:** 30 segundos (3 clipes)
-- **Estilo visual:** Style 1 Classic Minimalist, tema claro (fundo branco)
+- **Estilo visual:** Style 2 Ambientes Variados, tema claro com ambiente diferenciado por vídeo
 - **Cores de destaque (máximo 3):** Verde vivo, vermelho forte, amarelo brilhante
+- **Ambiente de fundo:** Corredor de apartamento com porta, ruídos do vizinho e interior do prédio, fundo branco com mobiliário mínimo cinza claro
 - **Cores usadas no vídeo:** Fundo branco, traço preto, destaque vermelho (batida de porta) no clipe 1
 - **Não usar:** Notação de cor técnica (hex, RGB), balões de fala, texto na cena
 
@@ -49,7 +50,7 @@
 ## 8. Confirmação necessária
 Antes de gerar os prompts de vídeo (Fase B), confirme:
 - [ ] Você concorda com este roteiro de 30 segundos
-- [ ] Você quer manter o estilo Style 1 (fundo branco, palito simples)
+- [ ] Você quer manter o estilo Style 2 (ambiente diferenciado por vídeo, palito consistente)
 - [ ] Você quer manter as cores verde, vermelho, amarelo como destaques
 - [ ] Você vai gerar os clipes em Google Flow, Runway, Luma ou Kling?
 

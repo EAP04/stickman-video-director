@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Esta fruta parece doce (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure stands at fruit stall, points at red strawberry, vendor says it is sweet, figure looks hopeful. Small red strawberry accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with outdoor market stall with produce, crates and vendor table. Stick figure stands at fruit stall, points at red strawberry, vendor says it is sweet, figure looks hopeful. Small red strawberry accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não é doce (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at fruit stall on white background. Figure tastes strawberry, makes disappointed face, shakes head, fruit is not sweet. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at fruit stall on white background with outdoor market stall with produce, crates and vendor table. Figure tastes strawberry, makes disappointed face, shakes head, fruit is not sweet. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Não levo mais (20–30s)

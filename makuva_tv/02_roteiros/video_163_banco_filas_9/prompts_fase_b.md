@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Estou na fila (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure stands in line at bank, people ahead are not moving, figure waits patiently. Small yellow ticket accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bank interior with queue area, service counter and waiting chairs. Stick figure stands in line at bank, people ahead are not moving, figure waits patiently. Small yellow ticket accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — A fila não anda (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in bank line on white background. People in front do not move for a long time, figure looks tired and checks watch. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in bank line on white background with bank interior with queue area, service counter and waiting chairs. People in front do not move for a long time, figure looks tired and checks watch. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou embora (20–30s)

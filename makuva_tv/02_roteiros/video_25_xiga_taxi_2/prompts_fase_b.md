@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Combina preço com motorista (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure enters xiga minibus taxi, agrees price with driver, small money exchange. Small yellow coin accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with taxi interior with driver seat, dashboard and street view. Stick figure enters xiga minibus taxi, agrees price with driver, small money exchange. Small yellow coin accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Motorista cobra mais ao chegar (10–20s)
 
 ```
-Same minimalist 2D animated stick figure inside xiga on white background. Driver arrives at destination, asks for more money than agreed, figure looks surprised. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure inside xiga on white background with taxi interior with driver seat, dashboard and street view. Driver arrives at destination, asks for more money than agreed, figure looks surprised. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Paga, nunca mais xiga (20–30s)

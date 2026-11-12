@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Compra banana (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure at fruit stall buys yellow banana, vendor hands it over, figure looks happy. Small yellow banana accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with outdoor market stall with produce, crates and vendor table. Stick figure at fruit stall buys yellow banana, vendor hands it over, figure looks happy. Small yellow banana accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Está muito mole (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at home on white background. Figure peels banana, sees it is too ripe and mushy, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at home on white background with outdoor market stall with produce, crates and vendor table. Figure peels banana, sees it is too ripe and mushy, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Joga fora (20–30s)

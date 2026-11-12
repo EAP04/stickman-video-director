@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — O vizinho grita ao telefone (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sleeping in bed, hears neighbor shouting on phone through wall, sits up startled. Small red phone shout accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with apartment hallway with door, neighbor sounds and building interior. Stick figure sleeping in bed, hears neighbor shouting on phone through wall, sits up startled. Small red phone shout accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Acordou todo mundo no prédio (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in bed on white background. Other figures in building wake up, look toward neighbor's wall, all annoyed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in bed on white background with apartment hallway with door, neighbor sounds and building interior. Other figures in building wake up, look toward neighbor's wall, all annoyed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Fecho janela, durmo assim (20–30s)

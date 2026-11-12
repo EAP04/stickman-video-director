@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Cai no buraco (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure walks down street, falls into hole in sidewalk, figure looks surprised. Small red hole accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with street corner with buildings, sidewalk and neighborhood. Stick figure walks down street, falls into hole in sidewalk, figure looks surprised. Small red hole accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não consigo sair (10–20s)
 
 ```
-Same minimalist 2D animated stick figure inside hole on white background. Figure tries to climb out, hole too deep, slips back down, looks stuck. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure inside hole on white background with street corner with buildings, sidewalk and neighborhood. Figure tries to climb out, hole too deep, slips back down, looks stuck. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Ajuda (20–30s)

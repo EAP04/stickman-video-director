@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Desço na próxima (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure inside kombi minibus taxi, asks conductor to stop at next stop, conductor nods. Small yellow stop sign accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with minibus taxi interior with seats, handrails and passengers. Stick figure inside kombi minibus taxi, asks conductor to stop at next stop, conductor nods. Small yellow stop sign accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Cobrador esqueceu, segue em frente (10–20s)
 
 ```
-Same minimalist 2D animated stick figure inside kombi on white background. Conductor forgets to stop, kombi passes the stop without stopping, figure looks worried. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure inside kombi on white background with minibus taxi interior with seats, handrails and passengers. Conductor forgets to stop, kombi passes the stop without stopping, figure looks worried. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Fiquei para trás, nunca mais kombi (20–30s)

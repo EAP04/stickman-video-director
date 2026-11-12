@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Não tem rede (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure holds phone, taps send on message, no signal bars shown, figure looks annoyed. Small red signal bar accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with living room with sofa, phone in hand and window. Stick figure holds phone, taps send on message, no signal bars shown, figure looks annoyed. Small red signal bar accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Procuro sinal pela casa (10–20s)
 
 ```
-Same minimalist 2D animated stick figure holding phone walks around room on white background. Figure holds phone up high, looks at screen, turns around, walks to window, still no signal. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure holding phone walks around room on white background with living room with sofa, phone in hand and window. Figure holds phone up high, looks at screen, turns around, walks to window, still no signal. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Desisto, guardo o celular (20–30s)

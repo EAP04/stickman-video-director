@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Tentar dormir, som começa (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure lies in bed, pulls blanket over head, covers ears, looks annoyed as loud music starts next door. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with apartment hallway with door, neighbor sounds and building interior. Stick figure lies in bed, pulls blanket over head, covers ears, looks annoyed as loud music starts next door. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Bater na parede, volume sobe (10–20s)
 
 ```
-Same minimalist 2D animated stick figure sits up in bed on white background. Figure bangs on wall with fist, looks at wall, music note or speaker icon appears on other side of wall getting louder. White stick figure, black stick limbs, small red sound accent. Smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure sits up in bed on white background with apartment hallway with door, neighbor sounds and building interior. Figure bangs on wall with fist, looks at wall, music note or speaker icon appears on other side of wall getting louder. White stick figure, black stick limbs, small red sound accent. Smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Amanheceu, sem dormir (20–30s)

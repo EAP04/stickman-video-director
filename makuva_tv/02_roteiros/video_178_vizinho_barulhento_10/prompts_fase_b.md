@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Estou em casa (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure is at home trying to rest, neighbor makes loud noise, figure cannot rest. Small yellow speaker accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with apartment hallway with door, neighbor sounds and building interior. Stick figure is at home trying to rest, neighbor makes loud noise, figure cannot rest. Small yellow speaker accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O vizinho faz barulho (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at home on white background. Neighbor keeps making loud noise, figure looks annoyed, covers ears. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at home on white background with apartment hallway with door, neighbor sounds and building interior. Neighbor keeps making loud noise, figure looks annoyed, covers ears. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Fecho janela (20–30s)

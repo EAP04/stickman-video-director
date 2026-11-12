@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Chegar cedo, tirar senha (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sits in hospital waiting room holding queue ticket, looks at door, waits patiently. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with clinic examination room with bed, medical equipment and cabinets. Stick figure sits in hospital waiting room holding queue ticket, looks at door, waits patiently. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Senha não avança (10–20s)
 
 ```
-Same minimalist 2D animated stick figure sitting in waiting room on white background. Figure looks at wristwatch repeatedly, looks at display board that does not change, looks exhausted. White stick figure, black stick limbs, small red number accent on board visible. Smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure sitting in waiting room on white background with clinic examination room with bed, medical equipment and cabinets. Figure looks at wristwatch repeatedly, looks at display board that does not change, looks exhausted. White stick figure, black stick limbs, small red number accent on board visible. Smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Chama outro número, vai embora (20–30s)

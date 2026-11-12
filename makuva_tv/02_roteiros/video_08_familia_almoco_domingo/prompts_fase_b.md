@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Sentar à mesa, tia começa a falar (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sits at dining table holding plate, another figure (aunt) starts talking animatedly with hand gestures, stick figure looks at plate then at aunt. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with family dining room with table, chairs and plates of food. Stick figure sits at dining table holding plate, another figure (aunt) starts talking animatedly with hand gestures, stick figure looks at plate then at aunt. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Comida esfria, tia não para (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at table on white background. Aunt keeps talking nonstop, stick figure looks at cooling food on plate, checks wristwatch, looks impatient. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at table on white background with family dining room with table, chairs and plates of food. Aunt keeps talking nonstop, stick figure looks at cooling food on plate, checks wristwatch, looks impatient. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Levanta e come de pé (20–30s)

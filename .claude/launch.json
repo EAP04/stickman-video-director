@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "name": "makuva-tv",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "makuva_tv"],
+      "port": 8765
+    }
+  ]
+}

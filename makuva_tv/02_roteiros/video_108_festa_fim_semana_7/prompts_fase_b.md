@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Não tem ninguém (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure arrives at party with cup, no one there, empty room, figure looks confused. Small red empty cup accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with party venue with decorations, table and celebration setup. Stick figure arrives at party with cup, no one there, empty room, figure looks confused. Small red empty cup accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Estou sozinho (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at empty party on white background. Figure looks around, no one else there, holds cup alone, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at empty party on white background with party venue with decorations, table and celebration setup. Figure looks around, no one else there, holds cup alone, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou embora (20–30s)

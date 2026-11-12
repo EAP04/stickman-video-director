@@ -5,19 +5,19 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Deitar e apagar a luz (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure lies down to sleep, reaches for light switch, switches off light, background turns pitch black. Hollow circular head, no face details, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure in a bedroom with bed, bedside lamp and window with curtains on white background. Stick figure lies down to sleep, reaches for light switch, switches off light, room turns dark. Hollow circular head, no face details, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Procurar luz no escuro (10–20s)
 
 ```
-Same minimalist 2D animated stick figure on black background. Figure stands up slowly, walks forward with hands outstretched, looks around in the dark. Holds a small phone light or candle. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in a dark bedroom on white background. Figure stands up slowly, walks forward with hands outstretched, looks around in the dark. Holds a small phone light or candle. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Luz volta e piada final (20–30s)
 
 ```
-Same stick figure switches on light, background returns to pure white. Figure looks directly at camera and smiles. Hollow circular head, black stick limbs, yellow shirt accent. Simple black lines, vibrant colors, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same stick figure switches on light, bedroom returns to normal on white background. Figure looks directly at camera and smiles. Hollow circular head, black stick limbs, yellow shirt accent. Simple black lines, vibrant colors, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Regras de geração (não alterar)

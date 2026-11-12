@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A rua está cheia de buracos (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure arrives at street corner, road full of potholes, figure stops and cannot pass. Small yellow pothole accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with street corner with buildings, sidewalk and neighborhood. Stick figure arrives at street corner, road full of potholes, figure stops and cannot pass. Small yellow pothole accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não consigo passar (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at street corner on white background. Figure tries to pass but potholes block the way, looks scared, steps back. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at street corner on white background with street corner with buildings, sidewalk and neighborhood. Figure tries to pass but potholes block the way, looks scared, steps back. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Volto atrás (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Estou doente (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure arrives at hospital looking sick, sits in waiting room, waiting room is empty, figure looks unwell. Small yellow thermometer accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with clinic examination room with bed, medical equipment and cabinets. Stick figure arrives at hospital looking sick, sits in waiting room, waiting room is empty, figure looks unwell. Small yellow thermometer accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não tem médico (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in hospital waiting room on white background. Figure waits, no doctor comes, reception desk is empty, figure looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in hospital waiting room on white background with clinic examination room with bed, medical equipment and cabinets. Figure waits, no doctor comes, reception desk is empty, figure looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Volto para casa (20–30s)

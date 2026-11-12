@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Fumaça do vizinho entra (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure closes window, smoke from neighbor barbecue still enters room, figure looks annoyed. Small red smoke accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with apartment hallway with door, neighbor sounds and building interior. Stick figure closes window, smoke from neighbor barbecue still enters room, figure looks annoyed. Small red smoke accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Fecha tudo, ainda entra (10–20s)
 
 ```
-Same minimalist 2D animated stick figure closing all windows on white background. Smoke from barbecue keeps coming through, figure looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure closing all windows on white background with apartment hallway with door, neighbor sounds and building interior. Smoke from barbecue keeps coming through, figure looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou comer lá mesmo (20–30s)

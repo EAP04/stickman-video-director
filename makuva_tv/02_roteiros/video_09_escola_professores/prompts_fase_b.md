@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Entregar tarefa, caderno na mão (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure enters classroom holding notebook, teacher asks for homework, everyone stays quiet. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with classroom with blackboard, desks and teacher desk. Stick figure enters classroom holding notebook, teacher asks for homework, everyone stays quiet. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Ninguém fez, silêncio na sala (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in classroom on white background. Students look away, nobody raises hand, figure looks around at empty raised hands. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in classroom on white background with classroom with blackboard, desks and teacher desk. Students look away, nobody raises hand, figure looks around at empty raised hands. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Levanta a mão sozinho, cai na piada (20–30s)

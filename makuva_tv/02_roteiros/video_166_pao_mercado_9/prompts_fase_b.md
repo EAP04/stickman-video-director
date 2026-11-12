@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Vou ao mercado (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure runs to market to buy bread, arrives at closed door, market is shut. Small yellow bread accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bakery counter with bread display, shelves and shop counter. Stick figure runs to market to buy bread, arrives at closed door, market is shut. Small yellow bread accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O mercado fechou (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at market door on white background. Door is closed with closed sign, figure looks at door disappointed, tries to open but nothing. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at market door on white background with bakery counter with bread display, shelves and shop counter. Door is closed with closed sign, figure looks at door disappointed, tries to open but nothing. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Compro amanhã (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Cheguei no hospital (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure arrives at hospital, waiting room is full, no doctor available. Small yellow cross accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with clinic examination room with bed, medical equipment and cabinets. Stick figure arrives at hospital, waiting room is full, no doctor available. Small yellow cross accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O hospital está lotado (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at hospital on white background. Waiting room packed, figure waits in line, no attention given. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at hospital on white background with clinic examination room with bed, medical equipment and cabinets. Waiting room packed, figure waits in line, no attention given. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou para casa (20–30s)

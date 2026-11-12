@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Conhece alguém aqui? (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sits in job interview holding resume, employer asks if candidate knows anyone at the company. Small yellow resume accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with office interior with desk, chair, computer and meeting table. Stick figure sits in job interview holding resume, employer asks if candidate knows anyone at the company. Small yellow resume accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não conheço (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in interview on white background. Employer asks about connections, figure shakes head, knows nobody there. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in interview on white background with office interior with desk, chair, computer and meeting table. Employer asks about connections, figure shakes head, knows nobody there. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou embora (20–30s)

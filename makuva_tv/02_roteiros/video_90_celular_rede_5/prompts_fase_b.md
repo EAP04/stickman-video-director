@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Quero usar (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure picks up phone to use internet, battery icon shows empty, phone will not turn on, figure looks annoyed. Small red battery accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with living room with sofa, phone in hand and window. Stick figure picks up phone to use internet, battery icon shows empty, phone will not turn on, figure looks annoyed. Small red battery accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Acabou (10–20s)
 
 ```
-Same minimalist 2D animated stick figure holding phone on white background. Figure presses power button, nothing happens, battery dead, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure holding phone on white background with living room with sofa, phone in hand and window. Figure presses power button, nothing happens, battery dead, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Guardo (20–30s)

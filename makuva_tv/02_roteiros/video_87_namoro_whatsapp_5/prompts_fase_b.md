@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Mandei mensagem (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure holds phone, sends message on WhatsApp, sees blue read ticks, looks at screen waiting. Small red read-tick accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bedroom with bed, phone on nightstand and window. Stick figure holds phone, sends message on WhatsApp, sees blue read ticks, looks at screen waiting. Small red read-tick accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não respondeu (10–20s)
 
 ```
-Same minimalist 2D animated stick figure holding phone on white background. Message stayed read with no reply, figure checks again, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure holding phone on white background with bedroom with bed, phone on nightstand and window. Message stayed read with no reply, figure checks again, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Esqueço (20–30s)

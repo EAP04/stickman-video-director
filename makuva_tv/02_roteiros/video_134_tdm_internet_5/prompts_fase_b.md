@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Tento carregar (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure holds phone, taps to load a page, loading spinner spins endlessly, nothing appears, figure looks annoyed. Small red loading spinner accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with home office with Wi-Fi router, modem and computer desk. Stick figure holds phone, taps to load a page, loading spinner spins endlessly, nothing appears, figure looks annoyed. Small red loading spinner accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não entra (10–20s)
 
 ```
-Same minimalist 2D animated stick figure holding phone on white background. Page still does not load, figure tries again, refreshes, still nothing, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure holding phone on white background with home office with Wi-Fi router, modem and computer desk. Page still does not load, figure tries again, refreshes, still nothing, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Desligo (20–30s)

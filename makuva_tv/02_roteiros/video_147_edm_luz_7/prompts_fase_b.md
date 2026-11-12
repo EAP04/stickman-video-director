@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A luz está acesa (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure is inside house with light on, sitting comfortably at table. Small yellow light bulb accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bedroom with bed, bedside lamp and window with curtains. Stick figure is inside house with light on, sitting comfortably at table. Small yellow light bulb accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — A luz acabou de novo (10–20s)
 
 ```
-Same minimalist 2D animated stick figure inside house on white background. Light goes out suddenly again, room becomes dark, figure looks around confused. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure inside house on white background with bedroom with bed, bedside lamp and window with curtains. Light goes out suddenly again, room becomes dark, figure looks around confused. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Durmo no escuro (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — O celular tocou (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sits in church pew, pastor preaches in front, everyone quiet, phone ringtone starts loudly from figure's pocket. Small red phone accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with church interior with pews, altar and religious decorations. Stick figure sits in church pew, pastor preaches in front, everyone quiet, phone ringtone starts loudly from figure's pocket. Small red phone accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Todo mundo olha (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in church on white background. People turn heads to look, figure looks embarrassed, covers phone. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in church on white background with church interior with pews, altar and religious decorations. People turn heads to look, figure looks embarrassed, covers phone. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — É o meu, desligo rápido (20–30s)

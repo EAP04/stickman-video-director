@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — O pão está queimado (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure enters bakery, asks for bread, bread looks burned, figure looks disappointed. Small red burned bread accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bakery counter with bread display, shelves and shop counter. Stick figure enters bakery, asks for bread, bread looks burned, figure looks disappointed. Small red burned bread accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Também queimado, não levo (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in bakery on white background. Vendor offers different bread, also burned, figure shakes head and refuses. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in bakery on white background with bakery counter with bread display, shelves and shop counter. Vendor offers different bread, also burned, figure shakes head and refuses. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Não levo pão, vou embora (20–30s)

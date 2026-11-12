@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Eu fiz a tarefa (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure enters classroom holding notebook, teacher asks for homework, figure holds notebook close to chest. Small yellow notebook accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with classroom with blackboard, desks and teacher desk. Stick figure enters classroom holding notebook, teacher asks for homework, figure holds notebook close to chest. Small yellow notebook accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não vou mostrar (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in classroom on white background. Nobody raises hand, figure hides notebook behind back, looks around nervously. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in classroom on white background with classroom with blackboard, desks and teacher desk. Nobody raises hand, figure hides notebook behind back, looks around nervously. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Mostro só se quiser (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Multicaixa sem dinheiro (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure approaches ATM, screen shows no money available, figure looks disappointed. Small red no-money accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bank interior with queue area, service counter and waiting chairs. Stick figure approaches ATM, screen shows no money available, figure looks disappointed. Small red no-money accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Documento perdido, não saco (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at ATM on white background. Figure realizes document is lost, cannot withdraw money, looks worried. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at ATM on white background with bank interior with queue area, service counter and waiting chairs. Figure realizes document is lost, cannot withdraw money, looks worried. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou embora, não vou ao banco (20–30s)

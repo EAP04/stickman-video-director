@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A festa acabou (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure holds cup at party, everyone cheers, lights come on showing party is over, night time. Small red cup accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with party venue with decorations, table and celebration setup. Stick figure holds cup at party, everyone cheers, lights come on showing party is over, night time. Small red cup accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não tenho como voltar (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at party on white background. Looks around for transportation, no bus or taxi available, figure looks worried. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at party on white background with party venue with decorations, table and celebration setup. Looks around for transportation, no bus or taxi available, figure looks worried. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou a pé (20–30s)

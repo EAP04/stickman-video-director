@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Estou descansando (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sits inside house relaxing, neighbor turns on loud music next door, figure cannot rest. Small yellow sound accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with apartment hallway with door, neighbor sounds and building interior. Stick figure sits inside house relaxing, neighbor turns on loud music next door, figure cannot rest. Small yellow sound accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O vizinho barulha (10–20s)
 
 ```
-Same minimalist 2D animated stick figure inside house on white background. Music from next door is loud, figure covers ears looking annoyed, tries to ignore noise. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure inside house on white background with apartment hallway with door, neighbor sounds and building interior. Music from next door is loud, figure covers ears looking annoyed, tries to ignore noise. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Não descanso (20–30s)

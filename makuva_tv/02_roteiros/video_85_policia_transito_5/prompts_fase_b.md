@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — O semáforo não mudou (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure waits at red traffic light, checks wristwatch, light stays red, figure looks impatient. Small red traffic light accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with police checkpoint with officer uniform, traffic sign and street. Stick figure waits at red traffic light, checks wristwatch, light stays red, figure looks impatient. Small red traffic light accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Espera mais (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at traffic light on white background. Figure waits longer, traffic light still red, no cars pass, looks annoyed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at traffic light on white background with police checkpoint with officer uniform, traffic sign and street. Figure waits longer, traffic light still red, no cars pass, looks annoyed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou a pé (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — O primo chegou e não para (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure receives cousin visit at home, cousin starts talking nonstop with hand gestures, figure looks overwhelmed. Small yellow figure accent visible for cousin. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with family dining room with table, chairs and plates of food. Stick figure receives cousin visit at home, cousin starts talking nonstop with hand gestures, figure looks overwhelmed. Small yellow figure accent visible for cousin. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Fala de tudo, eu não consigo falar (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at home on white background. Cousin keeps talking about everything, figure tries to speak but gets interrupted, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at home on white background with family dining room with table, chairs and plates of food. Cousin keeps talking about everything, figure tries to speak but gets interrupted, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Saio, não aguento mais ouvir (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Estou no celular (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure holds phone, trying to load a page, internet is very slow, page does not load. Small yellow signal accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with home office with Wi-Fi router, modem and computer desk. Stick figure holds phone, trying to load a page, internet is very slow, page does not load. Small yellow signal accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — A internet está lenta (10–20s)
 
 ```
-Same minimalist 2D animated stick figure holding phone on white background. Phone shows slow loading icon, figure waits impatiently, taps screen. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure holding phone on white background with home office with Wi-Fi router, modem and computer desk. Phone shows slow loading icon, figure waits impatiently, taps screen. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Tento depois (20–30s)

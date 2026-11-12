@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A polícia estacionou aqui (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure walks on sidewalk, police car parked on top of sidewalk blocks the way, figure stops. Small red police car accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with police checkpoint with officer uniform, traffic sign and street. Stick figure walks on sidewalk, police car parked on top of sidewalk blocks the way, figure stops. Small red police car accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não consigo passar (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at sidewalk on white background. Figure tries to pass police car, no space, looks annoyed, waits. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at sidewalk on white background with police checkpoint with officer uniform, traffic sign and street. Figure tries to pass police car, no space, looks annoyed, waits. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou pela rua (20–30s)

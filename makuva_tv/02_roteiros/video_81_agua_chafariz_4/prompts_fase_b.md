@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A bomba está quebrada (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure carries empty bucket to water pump, pump is broken with red X mark, no water comes out, figure looks disappointed. Small red broken pump accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with outdoor street with water fountain, pavement and neighborhood. Stick figure carries empty bucket to water pump, pump is broken with red X mark, no water comes out, figure looks disappointed. Small red broken pump accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Balde ainda vazio (10–20s)
 
 ```
-Same minimalist 2D animated stick figure with empty bucket on white background. Waits near broken pump, pump still dry, bucket remains empty, figure wipes sweat. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure with empty bucket on white background with outdoor street with water fountain, pavement and neighborhood. Waits near broken pump, pump still dry, bucket remains empty, figure wipes sweat. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou embora (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Ela viu o status (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure holds phone, sends message in WhatsApp, sees that contact viewed status but did not reply, looks confused. Small red status icon accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bedroom with bed, phone on nightstand and window. Stick figure holds phone, sends message in WhatsApp, sees that contact viewed status but did not reply, looks confused. Small red status icon accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Não respondeu (10–20s)
 
 ```
-Same minimalist 2D animated stick figure holding phone on white background. Figure checks WhatsApp again, message read but no reply, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure holding phone on white background with bedroom with bed, phone on nightstand and window. Figure checks WhatsApp again, message read but no reply, looks disappointed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Apago (20–30s)

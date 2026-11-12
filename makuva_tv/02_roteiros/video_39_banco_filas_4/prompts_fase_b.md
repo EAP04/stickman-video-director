@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Minha vez passou (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure stands in bank line holding ticket, looks away for a moment, number changes, figure looks annoyed. Small red number accent on board visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bank interior with queue area, service counter and waiting chairs. Stick figure stands in bank line holding ticket, looks away for a moment, number changes, figure looks annoyed. Small red number accent on board visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O próximo já entrou (10–20s)
 
 ```
-Same minimalist 2D animated stick figure waiting in bank line on white background. Display board shows next number called, figure looks at board, realizes turn was missed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure waiting in bank line on white background with bank interior with queue area, service counter and waiting chairs. Display board shows next number called, figure looks at board, realizes turn was missed. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Saio da fila, volta amanhã (20–30s)

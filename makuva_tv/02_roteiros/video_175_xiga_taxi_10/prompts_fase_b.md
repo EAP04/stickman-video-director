@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Chamo o xiga (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure stands on street calling taxi on phone, waits for driver to arrive. Small yellow taxi accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with taxi interior with driver seat, dashboard and street view. Stick figure stands on street calling taxi on phone, waits for driver to arrive. Small yellow taxi accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O xiga não vem (10–20s)
 
 ```
-Same minimalist 2D animated stick figure on street on white background. Taxi does not arrive, figure looks at phone waiting, keeps waiting. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure on street on white background with taxi interior with driver seat, dashboard and street view. Taxi does not arrive, figure looks at phone waiting, keeps waiting. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou a pé (20–30s)

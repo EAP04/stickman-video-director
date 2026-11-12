@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — A luz voltou às 3 da manhã (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure sleeping in bed, light turns on suddenly, background brightens, figure wakes up startled. Small yellow light accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bedroom with bed, bedside lamp and window with curtains. Stick figure sleeping in bed, light turns on suddenly, background brightens, figure wakes up startled. Small yellow light accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — Acordou todo mundo em casa (10–20s)
 
 ```
-Same minimalist 2D animated stick figure in bed on white background. Other figures in house wake up, look around, all annoyed at the light. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure in bed on white background with bedroom with bed, bedside lamp and window with curtains. Other figures in house wake up, look around, all annoyed at the light. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Apaguei, luz voltou de novo (20–30s)

@@ -5,13 +5,13 @@ Copie e cole cada prompt separadamente na ferramenta de geração de vídeo (Goo
 ## Clipe 1 — Vou sacar dinheiro (0–10s)
 
 ```
-Minimalist 2D animated stick figure on pure white background. Stick figure walks into bank holding card, approaches ATM, ATM is broken with out of order sign, figure looks disappointed. Small yellow card accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Minimalist 2D animated stick figure on white background with bank interior with queue area, service counter and waiting chairs. Stick figure walks into bank holding card, approaches ATM, ATM is broken with out of order sign, figure looks disappointed. Small yellow card accent visible. Hollow circular head, black stick limbs, uniform medium line weight. Simple black lines, smooth 2D animation style. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 2 — O caixa está quebrado (10–20s)
 
 ```
-Same minimalist 2D animated stick figure at ATM on white background. ATM screen is dark, machine does not work, figure tries again, nothing happens, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
+Same minimalist 2D animated stick figure at ATM on white background with bank interior with queue area, service counter and waiting chairs. ATM screen is dark, machine does not work, figure tries again, nothing happens, looks frustrated. White stick figure, black stick limbs, smooth 2D animation. 9:16 vertical aspect ratio, 10 seconds duration. No speech bubbles, no text, no dialogue boxes.
 ```
 
 ## Clipe 3 — Vou outro banco (20–30s)
